@@ -5,6 +5,8 @@ app was acceseed via http://localhost:5000/
 
 open cypress by using: ./node_modules/.bin/cypress open
 
+test can be found in: qaautomation/cypress/integration/tests/
+
 more tests will need to be implemented to check the hiring process follows all the stages
 
 at the moment there are a few bugs in the app like:
